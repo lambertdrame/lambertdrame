@@ -1,0 +1,46 @@
+body{
+	background-color:#226f87;
+	color: rgb(185, 75, 39);
+}
+img{
+	align-content: center;
+	border-radius: 50%;
+	width:100px ;
+	margin-top: 50px;
+}
+.main{
+	background-color: skyblue;
+	overflow-y: visible;
+	align-content: center;
+	text-align: center;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 150px;
+	border-radius: 13px;
+	background: 185%, 75%, 39%;
+	box-shadow:  35px 35px 90px #5a5a5a,
+             -35px -35px 90px #ffffff;
+}
+.first {
+display: grid;
+grid-template-areas: "siva";
+background-color: red;
+grid-auto-rows: auto;
+}
+.second {
+text-align: center;
+font-size: 20px;
+background-color: white;
+text-decoration-color: black;
+color: black;
+}
+div b{
+	display: inline-block;
+}
+.content{
+	padding: 20px;
+	display: inline-block;
+	font-size: 40px;
+	font-family: Kumbh Sans;
+	font-weight: 400, 700;
+}
