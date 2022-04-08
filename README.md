@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lambertdrame
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning github and some related stuff
-- 💞️ I’m looking to collaborate on learning and woRking in group
+- 💞️ I’m looking to collaborate on learning and working in group
 - 📫 How to reach me the best way to inbox me or whrite on my email
 
 <!---
