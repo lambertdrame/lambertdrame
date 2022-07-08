@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lambertdrame
-- 👀 I’m interested in coding
+- 👀 I’m enrolled student at UDACITY'S Nanodegree course, Data Analyst.
 - 🌱 I’m currently learning github and some related stuff
 - 💞️ I’m looking to collaborate on learning and working in group
-- 📫 How to reach me the best way to inbox me or whrite on my email
+- 📫 How to reach me the best way to inbox me or write on my email
 
 <!---
 lambertdrame/lambertdrame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
